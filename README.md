@@ -15,4 +15,7 @@ Python
 # Tools 🛠
 Jupyter Notebook(Google Colab), MS
 Excel
-
+Tableau Public
+# Dashboard
+Tableau public link:
+https://public.tableau.com/views/HeartDiseaseDiagonsticAnalysisProject/HeartDiseaseDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
