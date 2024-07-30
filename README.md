@@ -14,7 +14,7 @@ Healthcare
 Python
 # Tools 🛠
 Jupyter Notebook(Google Colab), MS
-Excel
+Excel,
 Tableau Public
 # Dashboard
 Tableau public link:
