@@ -1,3 +1,5 @@
+# Project Title:
+Heart Disease Diagonstic Analysis - created by Subhamoy Panja
 # Objective 🎯
 The goal of this project is to analyse the heart disease occurrence, based on a combination of features and finding some relationships between attributes that describes the heart disease.
 # Poblem Statement ❓
