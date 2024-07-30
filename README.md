@@ -6,6 +6,9 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 Do ETL: Extract- Transform and Load data from the heart disease diagnostic database You can perform EDA through python. The database extracts various information such as Heart disease rates, Heart disease by gender, by age.
 # Dataset 📀
 https://raw.githubusercontent.com/Subhamoypanja/Heart-Disease-Diagnostic-Analysis-Project/main/Dataset/Heart%20Disease%20data.csv
+# Dashboard
+Tableau public link:
+https://public.tableau.com/views/HeartDiseaseDiagonsticAnalysisProject/HeartDiseaseDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 # Technology:
 Data Science
 # Domain:
@@ -16,6 +19,3 @@ Python
 Jupyter Notebook(Google Colab), MS
 Excel,
 Tableau Public
-# Dashboard
-Tableau public link:
-https://public.tableau.com/views/HeartDiseaseDiagonsticAnalysisProject/HeartDiseaseDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
